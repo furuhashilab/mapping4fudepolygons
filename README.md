@@ -1,0 +1,2 @@
+# mapping4fudepolygons
+筆ポリゴンインポート作業用リポジトリ
